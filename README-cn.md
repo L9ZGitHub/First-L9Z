@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE)
 
-## GoGoCode 是什么？(这里是b分支)
+## GoGoCode 是什么？(这里是b分支)(再次修改)
 
 [English version of README](README.md)
 
